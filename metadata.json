@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Studio 3D - Game Creator & Obby Player",
+  "description": "Create, build, script, and play 3D blocky obstacle courses, parkour obbys, and custom worlds directly in your browser with authentic Roblox Studio tools and physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
